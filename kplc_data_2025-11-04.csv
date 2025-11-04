@@ -1,0 +1,1153 @@
+ID,Region,Customer Type,Month,Year,Consumption (kWh),Cost (KES),Customers
+1,Nairobi,Residential,Jan,2022,249251,4985020,101894
+2,Nairobi,Commercial,Jan,2022,541281,9743058,7398
+3,Nairobi,Industrial,Jan,2022,1352237,20283555,1157
+4,Nairobi,Street Lighting,Jan,2022,79940,1758680,502
+5,Coast,Residential,Jan,2022,208724,4174480,108886
+6,Coast,Commercial,Jan,2022,473564,8524152,9637
+7,Coast,Industrial,Jan,2022,1106520,16597800,571
+8,Coast,Street Lighting,Jan,2022,80679,1774938,386
+9,Central,Residential,Jan,2022,189319,3786380,146514
+10,Central,Commercial,Jan,2022,392861,7071498,14277
+11,Central,Industrial,Jan,2022,1101864,16527960,1002
+12,Central,Street Lighting,Jan,2022,63640,1400080,427
+13,Rift Valley,Residential,Jan,2022,171360,3427200,117545
+14,Rift Valley,Commercial,Jan,2022,369847,6657246,9181
+15,Rift Valley,Industrial,Jan,2022,917232,13758480,653
+16,Rift Valley,Street Lighting,Jan,2022,57487,1264714,163
+17,Western,Residential,Jan,2022,161645,3232900,121121
+18,Western,Commercial,Jan,2022,376758,6781644,14886
+19,Western,Industrial,Jan,2022,972754,14591310,1402
+20,Western,Street Lighting,Jan,2022,62722,1379884,490
+21,Nyanza,Residential,Jan,2022,167975,3359500,105191
+22,Nyanza,Commercial,Jan,2022,342845,6171210,7875
+23,Nyanza,Industrial,Jan,2022,865400,12981000,574
+24,Nyanza,Street Lighting,Jan,2022,59487,1308714,592
+25,Eastern,Residential,Jan,2022,185389,3707780,143763
+26,Eastern,Commercial,Jan,2022,323247,5818446,6677
+27,Eastern,Industrial,Jan,2022,932508,13987620,1203
+28,Eastern,Street Lighting,Jan,2022,53944,1186768,503
+29,North Eastern,Residential,Jan,2022,159725,3194500,120192
+30,North Eastern,Commercial,Jan,2022,373537,6723666,7950
+31,North Eastern,Industrial,Jan,2022,937088,14056320,545
+32,North Eastern,Street Lighting,Jan,2022,58359,1283898,561
+33,Nairobi,Residential,Feb,2022,273291,5465820,106822
+34,Nairobi,Commercial,Feb,2022,551663,9929934,7742
+35,Nairobi,Industrial,Feb,2022,1298616,19479240,1424
+36,Nairobi,Street Lighting,Feb,2022,87201,1918422,525
+37,Coast,Residential,Feb,2022,223871,4477420,124292
+38,Coast,Commercial,Feb,2022,465340,8376120,9154
+39,Coast,Industrial,Feb,2022,1088705,16330575,1463
+40,Coast,Street Lighting,Feb,2022,71756,1578632,367
+41,Central,Residential,Feb,2022,222927,4458540,100164
+42,Central,Commercial,Feb,2022,439941,7918938,6977
+43,Central,Industrial,Feb,2022,1160218,17403270,568
+44,Central,Street Lighting,Feb,2022,65383,1438426,147
+45,Rift Valley,Residential,Feb,2022,185654,3713080,103051
+46,Rift Valley,Commercial,Feb,2022,413939,7450902,8979
+47,Rift Valley,Industrial,Feb,2022,993113,14896695,883
+48,Rift Valley,Street Lighting,Feb,2022,57570,1266540,471
+49,Western,Residential,Feb,2022,155300,3106000,143638
+50,Western,Commercial,Feb,2022,374341,6738138,10900
+51,Western,Industrial,Feb,2022,860526,12907890,1037
+52,Western,Street Lighting,Feb,2022,57915,1274130,487
+53,Nyanza,Residential,Feb,2022,161702,3234040,104505
+54,Nyanza,Commercial,Feb,2022,368099,6625782,11358
+55,Nyanza,Industrial,Feb,2022,887771,13316565,1226
+56,Nyanza,Street Lighting,Feb,2022,63178,1389916,416
+57,Eastern,Residential,Feb,2022,182827,3656540,140457
+58,Eastern,Commercial,Feb,2022,376842,6783156,5791
+59,Eastern,Industrial,Feb,2022,882703,13240545,1482
+60,Eastern,Street Lighting,Feb,2022,54231,1193082,371
+61,North Eastern,Residential,Feb,2022,177677,3553540,141450
+62,North Eastern,Commercial,Feb,2022,355353,6396354,5782
+63,North Eastern,Industrial,Feb,2022,928226,13923390,1023
+64,North Eastern,Street Lighting,Feb,2022,61516,1353352,505
+65,Nairobi,Residential,Mar,2022,240273,4805460,123915
+66,Nairobi,Commercial,Mar,2022,532501,9585018,11247
+67,Nairobi,Industrial,Mar,2022,1478886,22183290,563
+68,Nairobi,Street Lighting,Mar,2022,77907,1713954,410
+69,Coast,Residential,Mar,2022,206646,4132920,130119
+70,Coast,Commercial,Mar,2022,476952,8585136,13671
+71,Coast,Industrial,Mar,2022,1156356,17345340,915
+72,Coast,Street Lighting,Mar,2022,70953,1560966,335
+73,Central,Residential,Mar,2022,220219,4404380,122136
+74,Central,Commercial,Mar,2022,409626,7373268,13167
+75,Central,Industrial,Mar,2022,1137505,17062575,778
+76,Central,Street Lighting,Mar,2022,66854,1470788,109
+77,Rift Valley,Residential,Mar,2022,187603,3752060,106943
+78,Rift Valley,Commercial,Mar,2022,355858,6405444,13099
+79,Rift Valley,Industrial,Mar,2022,1105810,16587150,926
+80,Rift Valley,Street Lighting,Mar,2022,68736,1512192,274
+81,Western,Residential,Mar,2022,175059,3501180,113269
+82,Western,Commercial,Mar,2022,321700,5790600,8105
+83,Western,Industrial,Mar,2022,937606,14064090,1047
+84,Western,Street Lighting,Mar,2022,61472,1352384,389
+85,Nyanza,Residential,Mar,2022,172754,3455080,101033
+86,Nyanza,Commercial,Mar,2022,340811,6134598,12294
+87,Nyanza,Industrial,Mar,2022,882858,13242870,528
+88,Nyanza,Street Lighting,Mar,2022,60433,1329526,238
+89,Eastern,Residential,Mar,2022,183965,3679300,136383
+90,Eastern,Commercial,Mar,2022,321777,5791986,14753
+91,Eastern,Industrial,Mar,2022,989839,14847585,889
+92,Eastern,Street Lighting,Mar,2022,61186,1346092,444
+93,North Eastern,Residential,Mar,2022,184968,3699360,105612
+94,North Eastern,Commercial,Mar,2022,343421,6181578,11798
+95,North Eastern,Industrial,Mar,2022,847406,12711090,1013
+96,North Eastern,Street Lighting,Mar,2022,55235,1215170,173
+97,Nairobi,Residential,Apr,2022,231463,4629260,115628
+98,Nairobi,Commercial,Apr,2022,427958,7703244,6450
+99,Nairobi,Industrial,Apr,2022,1178128,17671920,857
+100,Nairobi,Street Lighting,Apr,2022,68392,1504624,125
+101,Coast,Residential,Apr,2022,205391,4107820,135420
+102,Coast,Commercial,Apr,2022,395526,7119468,6521
+103,Coast,Industrial,Apr,2022,1024849,15372735,843
+104,Coast,Street Lighting,Apr,2022,66993,1473846,112
+105,Central,Residential,Apr,2022,164968,3299360,143703
+106,Central,Commercial,Apr,2022,331108,5959944,14165
+107,Central,Industrial,Apr,2022,956454,14346810,1213
+108,Central,Street Lighting,Apr,2022,61511,1353242,294
+109,Rift Valley,Residential,Apr,2022,150164,3003280,114681
+110,Rift Valley,Commercial,Apr,2022,359008,6462144,10524
+111,Rift Valley,Industrial,Apr,2022,919409,13791135,928
+112,Rift Valley,Street Lighting,Apr,2022,54556,1200232,194
+113,Western,Residential,Apr,2022,161318,3226360,123393
+114,Western,Commercial,Apr,2022,284038,5112684,8662
+115,Western,Industrial,Apr,2022,865825,12987375,851
+116,Western,Street Lighting,Apr,2022,49397,1086734,142
+117,Nyanza,Residential,Apr,2022,156695,3133900,101012
+118,Nyanza,Commercial,Apr,2022,294309,5297562,5882
+119,Nyanza,Industrial,Apr,2022,815524,12232860,1403
+120,Nyanza,Street Lighting,Apr,2022,49108,1080376,170
+121,Eastern,Residential,Apr,2022,153507,3070140,132314
+122,Eastern,Commercial,Apr,2022,327425,5893650,13506
+123,Eastern,Industrial,Apr,2022,863155,12947325,922
+124,Eastern,Street Lighting,Apr,2022,49985,1099670,561
+125,North Eastern,Residential,Apr,2022,154322,3086440,129712
+126,North Eastern,Commercial,Apr,2022,311715,5610870,7439
+127,North Eastern,Industrial,Apr,2022,761108,11416620,645
+128,North Eastern,Street Lighting,Apr,2022,53878,1185316,478
+129,Nairobi,Residential,May,2022,243070,4861400,101878
+130,Nairobi,Commercial,May,2022,411785,7412130,5200
+131,Nairobi,Industrial,May,2022,1247036,18705540,629
+132,Nairobi,Street Lighting,May,2022,73815,1623930,280
+133,Coast,Residential,May,2022,191037,3820740,119503
+134,Coast,Commercial,May,2022,407311,7331598,14201
+135,Coast,Industrial,May,2022,1074821,16122315,816
+136,Coast,Street Lighting,May,2022,71070,1563540,200
+137,Central,Residential,May,2022,192865,3857300,107647
+138,Central,Commercial,May,2022,390816,7034688,8145
+139,Central,Industrial,May,2022,869889,13048335,804
+140,Central,Street Lighting,May,2022,54734,1204148,443
+141,Rift Valley,Residential,May,2022,149273,2985460,149440
+142,Rift Valley,Commercial,May,2022,334169,6015042,7358
+143,Rift Valley,Industrial,May,2022,834858,12522870,533
+144,Rift Valley,Street Lighting,May,2022,52204,1148488,188
+145,Western,Residential,May,2022,137251,2745020,117938
+146,Western,Commercial,May,2022,279601,5032818,8036
+147,Western,Industrial,May,2022,867194,13007910,787
+148,Western,Street Lighting,May,2022,46967,1033274,494
+149,Nyanza,Residential,May,2022,142753,2855060,101672
+150,Nyanza,Commercial,May,2022,292851,5271318,8956
+151,Nyanza,Industrial,May,2022,722448,10836720,1276
+152,Nyanza,Street Lighting,May,2022,46976,1033472,430
+153,Eastern,Residential,May,2022,139833,2796660,144174
+154,Eastern,Commercial,May,2022,275188,4953384,10733
+155,Eastern,Industrial,May,2022,731601,10974015,1468
+156,Eastern,Street Lighting,May,2022,49718,1093796,116
+157,North Eastern,Residential,May,2022,153288,3065760,101049
+158,North Eastern,Commercial,May,2022,274635,4943430,12281
+159,North Eastern,Industrial,May,2022,815100,12226500,576
+160,North Eastern,Street Lighting,May,2022,49848,1096656,384
+161,Nairobi,Residential,Jun,2022,228008,4560160,115502
+162,Nairobi,Commercial,Jun,2022,421341,7584138,9388
+163,Nairobi,Industrial,Jun,2022,1107918,16618770,1123
+164,Nairobi,Street Lighting,Jun,2022,79328,1745216,599
+165,Coast,Residential,Jun,2022,209266,4185320,143623
+166,Coast,Commercial,Jun,2022,407023,7326414,11829
+167,Coast,Industrial,Jun,2022,964364,14465460,1206
+168,Coast,Street Lighting,Jun,2022,65769,1446918,338
+169,Central,Residential,Jun,2022,191919,3838380,119430
+170,Central,Commercial,Jun,2022,364178,6555204,9108
+171,Central,Industrial,Jun,2022,1021964,15329460,1292
+172,Central,Street Lighting,Jun,2022,63274,1392028,299
+173,Rift Valley,Residential,Jun,2022,154840,3096800,110038
+174,Rift Valley,Commercial,Jun,2022,330954,5957172,12094
+175,Rift Valley,Industrial,Jun,2022,916016,13740240,1341
+176,Rift Valley,Street Lighting,Jun,2022,55573,1222606,405
+177,Western,Residential,Jun,2022,136169,2723380,100313
+178,Western,Commercial,Jun,2022,317354,5712372,12335
+179,Western,Industrial,Jun,2022,810441,12156615,1042
+180,Western,Street Lighting,Jun,2022,54984,1209648,353
+181,Nyanza,Residential,Jun,2022,146051,2921020,101683
+182,Nyanza,Commercial,Jun,2022,299540,5391720,6120
+183,Nyanza,Industrial,Jun,2022,788746,11831190,639
+184,Nyanza,Street Lighting,Jun,2022,47103,1036266,529
+185,Eastern,Residential,Jun,2022,144476,2889520,113240
+186,Eastern,Commercial,Jun,2022,273110,4915980,5432
+187,Eastern,Industrial,Jun,2022,835909,12538635,1076
+188,Eastern,Street Lighting,Jun,2022,48143,1059146,556
+189,North Eastern,Residential,Jun,2022,154423,3088460,104832
+190,North Eastern,Commercial,Jun,2022,316862,5703516,12084
+191,North Eastern,Industrial,Jun,2022,822263,12333945,1351
+192,North Eastern,Street Lighting,Jun,2022,54945,1208790,272
+193,Nairobi,Residential,Jul,2022,226163,4523260,149926
+194,Nairobi,Commercial,Jul,2022,449985,8099730,8919
+195,Nairobi,Industrial,Jul,2022,1092403,16386045,1173
+196,Nairobi,Street Lighting,Jul,2022,69283,1524226,405
+197,Coast,Residential,Jul,2022,201018,4020360,146288
+198,Coast,Commercial,Jul,2022,365281,6575058,10859
+199,Coast,Industrial,Jul,2022,978833,14682495,1486
+200,Coast,Street Lighting,Jul,2022,60055,1321210,510
+201,Central,Residential,Jul,2022,176724,3534480,117653
+202,Central,Commercial,Jul,2022,388376,6990768,10854
+203,Central,Industrial,Jul,2022,901209,13518135,559
+204,Central,Street Lighting,Jul,2022,56511,1243242,166
+205,Rift Valley,Residential,Jul,2022,179067,3581340,146320
+206,Rift Valley,Commercial,Jul,2022,358562,6454116,10859
+207,Rift Valley,Industrial,Jul,2022,806647,12099705,1266
+208,Rift Valley,Street Lighting,Jul,2022,56200,1236400,185
+209,Western,Residential,Jul,2022,164176,3283520,143130
+210,Western,Commercial,Jul,2022,306679,5520222,13336
+211,Western,Industrial,Jul,2022,749606,11244090,1050
+212,Western,Street Lighting,Jul,2022,45704,1005488,305
+213,Nyanza,Residential,Jul,2022,135071,2701420,137899
+214,Nyanza,Commercial,Jul,2022,317432,5713776,5969
+215,Nyanza,Industrial,Jul,2022,827903,12418545,1223
+216,Nyanza,Street Lighting,Jul,2022,45016,990352,457
+217,Eastern,Residential,Jul,2022,157091,3141820,134643
+218,Eastern,Commercial,Jul,2022,278237,5008266,5346
+219,Eastern,Industrial,Jul,2022,876663,13149945,573
+220,Eastern,Street Lighting,Jul,2022,48826,1074172,499
+221,North Eastern,Residential,Jul,2022,155888,3117760,106710
+222,North Eastern,Commercial,Jul,2022,313076,5635368,14313
+223,North Eastern,Industrial,Jul,2022,769230,11538450,887
+224,North Eastern,Street Lighting,Jul,2022,45902,1009844,528
+225,Nairobi,Residential,Aug,2022,218993,4379860,143281
+226,Nairobi,Commercial,Aug,2022,437522,7875396,14509
+227,Nairobi,Industrial,Aug,2022,1156084,17341260,1399
+228,Nairobi,Street Lighting,Aug,2022,73001,1606022,466
+229,Coast,Residential,Aug,2022,176141,3522820,111490
+230,Coast,Commercial,Aug,2022,390735,7033230,12277
+231,Coast,Industrial,Aug,2022,986559,14798385,1053
+232,Coast,Street Lighting,Aug,2022,69464,1528208,183
+233,Central,Residential,Aug,2022,165987,3319740,143628
+234,Central,Commercial,Aug,2022,344729,6205122,10577
+235,Central,Industrial,Aug,2022,998406,14976090,871
+236,Central,Street Lighting,Aug,2022,54878,1207316,422
+237,Rift Valley,Residential,Aug,2022,156345,3126900,132234
+238,Rift Valley,Commercial,Aug,2022,313915,5650470,10619
+239,Rift Valley,Industrial,Aug,2022,929963,13949445,610
+240,Rift Valley,Street Lighting,Aug,2022,56602,1245244,599
+241,Western,Residential,Aug,2022,163594,3271880,109522
+242,Western,Commercial,Aug,2022,320399,5767182,11658
+243,Western,Industrial,Aug,2022,797959,11969385,625
+244,Western,Street Lighting,Aug,2022,50269,1105918,582
+245,Nyanza,Residential,Aug,2022,163701,3274020,123103
+246,Nyanza,Commercial,Aug,2022,282198,5079564,6386
+247,Nyanza,Industrial,Aug,2022,849604,12744060,793
+248,Nyanza,Street Lighting,Aug,2022,47474,1044428,121
+249,Eastern,Residential,Aug,2022,160194,3203880,143770
+250,Eastern,Commercial,Aug,2022,327244,5890392,13799
+251,Eastern,Industrial,Aug,2022,874171,13112565,517
+252,Eastern,Street Lighting,Aug,2022,52017,1144374,514
+253,North Eastern,Residential,Aug,2022,138061,2761220,125203
+254,North Eastern,Commercial,Aug,2022,313689,5646402,11171
+255,North Eastern,Industrial,Aug,2022,762733,11440995,1325
+256,North Eastern,Street Lighting,Aug,2022,54539,1199858,482
+257,Nairobi,Residential,Sep,2022,227140,4542800,123426
+258,Nairobi,Commercial,Sep,2022,489861,8817498,6019
+259,Nairobi,Industrial,Sep,2022,1303005,19545075,978
+260,Nairobi,Street Lighting,Sep,2022,81008,1782176,549
+261,Coast,Residential,Sep,2022,207110,4142200,114104
+262,Coast,Commercial,Sep,2022,424322,7637796,13558
+263,Coast,Industrial,Sep,2022,1010584,15158760,663
+264,Coast,Street Lighting,Sep,2022,61204,1346488,477
+265,Central,Residential,Sep,2022,179977,3599540,108649
+266,Central,Commercial,Sep,2022,344342,6198156,11101
+267,Central,Industrial,Sep,2022,965442,14481630,940
+268,Central,Street Lighting,Sep,2022,55153,1213366,447
+269,Rift Valley,Residential,Sep,2022,170949,3418980,136966
+270,Rift Valley,Commercial,Sep,2022,334424,6019632,13595
+271,Rift Valley,Industrial,Sep,2022,879156,13187340,1408
+272,Rift Valley,Street Lighting,Sep,2022,52922,1164284,184
+273,Western,Residential,Sep,2022,142624,2852480,104256
+274,Western,Commercial,Sep,2022,315000,5670000,7842
+275,Western,Industrial,Sep,2022,754062,11310930,699
+276,Western,Street Lighting,Sep,2022,50329,1107238,301
+277,Nyanza,Residential,Sep,2022,159050,3181000,103779
+278,Nyanza,Commercial,Sep,2022,301084,5419512,7616
+279,Nyanza,Industrial,Sep,2022,781938,11729070,1441
+280,Nyanza,Street Lighting,Sep,2022,49454,1087988,281
+281,Eastern,Residential,Sep,2022,159686,3193720,113347
+282,Eastern,Commercial,Sep,2022,321364,5784552,14826
+283,Eastern,Industrial,Sep,2022,791791,11876865,1184
+284,Eastern,Street Lighting,Sep,2022,53364,1174008,167
+285,North Eastern,Residential,Sep,2022,137048,2740960,144663
+286,North Eastern,Commercial,Sep,2022,325978,5867604,11138
+287,North Eastern,Industrial,Sep,2022,790813,11862195,548
+288,North Eastern,Street Lighting,Sep,2022,48786,1073292,329
+289,Nairobi,Residential,Oct,2022,275825,5516500,117504
+290,Nairobi,Commercial,Oct,2022,517566,9316188,12227
+291,Nairobi,Industrial,Oct,2022,1487911,22318665,1156
+292,Nairobi,Street Lighting,Oct,2022,82153,1807366,312
+293,Coast,Residential,Oct,2022,238958,4779160,127614
+294,Coast,Commercial,Oct,2022,454380,8178840,14167
+295,Coast,Industrial,Oct,2022,1078482,16177230,1159
+296,Coast,Street Lighting,Oct,2022,75048,1651056,389
+297,Central,Residential,Oct,2022,227618,4552360,137772
+298,Central,Commercial,Oct,2022,446923,8044614,5901
+299,Central,Industrial,Oct,2022,1040638,15609570,1377
+300,Central,Street Lighting,Oct,2022,67449,1483878,420
+301,Rift Valley,Residential,Oct,2022,188317,3766340,130108
+302,Rift Valley,Commercial,Oct,2022,342068,6157224,8776
+303,Rift Valley,Industrial,Oct,2022,1036961,15554415,1129
+304,Rift Valley,Street Lighting,Oct,2022,56931,1252482,598
+305,Western,Residential,Oct,2022,160362,3207240,127836
+306,Western,Commercial,Oct,2022,340067,6121206,13938
+307,Western,Industrial,Oct,2022,966338,14495070,1067
+308,Western,Street Lighting,Oct,2022,56050,1233100,226
+309,Nyanza,Residential,Oct,2022,181097,3621940,129220
+310,Nyanza,Commercial,Oct,2022,319760,5755680,5712
+311,Nyanza,Industrial,Oct,2022,875279,13129185,1056
+312,Nyanza,Street Lighting,Oct,2022,55284,1216248,120
+313,Eastern,Residential,Oct,2022,169158,3383160,100524
+314,Eastern,Commercial,Oct,2022,357840,6441120,12922
+315,Eastern,Industrial,Oct,2022,961613,14424195,1177
+316,Eastern,Street Lighting,Oct,2022,52957,1165054,345
+317,North Eastern,Residential,Oct,2022,182445,3648900,120655
+318,North Eastern,Commercial,Oct,2022,366616,6599088,5047
+319,North Eastern,Industrial,Oct,2022,897537,13463055,798
+320,North Eastern,Street Lighting,Oct,2022,54110,1190420,229
+321,Nairobi,Residential,Nov,2022,241455,4829100,118308
+322,Nairobi,Commercial,Nov,2022,482255,8680590,8066
+323,Nairobi,Industrial,Nov,2022,1272853,19092795,527
+324,Nairobi,Street Lighting,Nov,2022,79184,1742048,158
+325,Coast,Residential,Nov,2022,208123,4162460,119352
+326,Coast,Commercial,Nov,2022,425642,7661556,5705
+327,Coast,Industrial,Nov,2022,1206742,18101130,530
+328,Coast,Street Lighting,Nov,2022,81208,1786576,368
+329,Central,Residential,Nov,2022,206860,4137200,115192
+330,Central,Commercial,Nov,2022,451568,8128224,14405
+331,Central,Industrial,Nov,2022,1010502,15157530,691
+332,Central,Street Lighting,Nov,2022,70162,1543564,300
+333,Rift Valley,Residential,Nov,2022,171153,3423060,130767
+334,Rift Valley,Commercial,Nov,2022,385308,6935544,11988
+335,Rift Valley,Industrial,Nov,2022,1106494,16597410,847
+336,Rift Valley,Street Lighting,Nov,2022,57626,1267772,360
+337,Western,Residential,Nov,2022,167896,3357920,145988
+338,Western,Commercial,Nov,2022,351445,6326010,13697
+339,Western,Industrial,Nov,2022,901556,13523340,922
+340,Western,Street Lighting,Nov,2022,51909,1141998,388
+341,Nyanza,Residential,Nov,2022,180774,3615480,110374
+342,Nyanza,Commercial,Nov,2022,321126,5780268,13620
+343,Nyanza,Industrial,Nov,2022,891452,13371780,1359
+344,Nyanza,Street Lighting,Nov,2022,58954,1296988,436
+345,Eastern,Residential,Nov,2022,158288,3165760,103509
+346,Eastern,Commercial,Nov,2022,322834,5811012,5236
+347,Eastern,Industrial,Nov,2022,899302,13489530,1006
+348,Eastern,Street Lighting,Nov,2022,57532,1265704,260
+349,North Eastern,Residential,Nov,2022,169025,3380500,114571
+350,North Eastern,Commercial,Nov,2022,374054,6732972,5999
+351,North Eastern,Industrial,Nov,2022,960147,14402205,1378
+352,North Eastern,Street Lighting,Nov,2022,52580,1156760,167
+353,Nairobi,Residential,Dec,2022,234850,4697000,142317
+354,Nairobi,Commercial,Dec,2022,556191,10011438,11129
+355,Nairobi,Industrial,Dec,2022,1242978,18644670,1497
+356,Nairobi,Street Lighting,Dec,2022,81668,1796696,499
+357,Coast,Residential,Dec,2022,215093,4301860,131299
+358,Coast,Commercial,Dec,2022,415550,7479900,6154
+359,Coast,Industrial,Dec,2022,1143174,17147610,1280
+360,Coast,Street Lighting,Dec,2022,75485,1660670,540
+361,Central,Residential,Dec,2022,208097,4161940,109881
+362,Central,Commercial,Dec,2022,392107,7057926,14623
+363,Central,Industrial,Dec,2022,1074598,16118970,1041
+364,Central,Street Lighting,Dec,2022,64769,1424918,237
+365,Rift Valley,Residential,Dec,2022,187180,3743600,106353
+366,Rift Valley,Commercial,Dec,2022,386245,6952410,12586
+367,Rift Valley,Industrial,Dec,2022,911097,13666455,772
+368,Rift Valley,Street Lighting,Dec,2022,64545,1419990,230
+369,Western,Residential,Dec,2022,159812,3196240,137959
+370,Western,Commercial,Dec,2022,347242,6250356,9169
+371,Western,Industrial,Dec,2022,845479,12682185,520
+372,Western,Street Lighting,Dec,2022,62850,1382700,565
+373,Nyanza,Residential,Dec,2022,166527,3330540,143813
+374,Nyanza,Commercial,Dec,2022,327925,5902650,14387
+375,Nyanza,Industrial,Dec,2022,984188,14762820,1211
+376,Nyanza,Street Lighting,Dec,2022,62760,1380720,564
+377,Eastern,Residential,Dec,2022,175327,3506540,126796
+378,Eastern,Commercial,Dec,2022,314877,5667786,6972
+379,Eastern,Industrial,Dec,2022,995685,14935275,616
+380,Eastern,Street Lighting,Dec,2022,57327,1261194,377
+381,North Eastern,Residential,Dec,2022,177930,3558600,147487
+382,North Eastern,Commercial,Dec,2022,376694,6780492,14053
+383,North Eastern,Industrial,Dec,2022,886614,13299210,1017
+384,North Eastern,Street Lighting,Dec,2022,53614,1179508,510
+385,Nairobi,Residential,Jan,2023,238806,4776120,116029
+386,Nairobi,Commercial,Jan,2023,494295,8897310,14215
+387,Nairobi,Industrial,Jan,2023,1349045,20235675,1365
+388,Nairobi,Street Lighting,Jan,2023,82303,1810666,487
+389,Coast,Residential,Jan,2023,231930,4638600,134344
+390,Coast,Commercial,Jan,2023,430044,7740792,10074
+391,Coast,Industrial,Jan,2023,1106852,16602780,1071
+392,Coast,Street Lighting,Jan,2023,79232,1743104,510
+393,Central,Residential,Jan,2023,209581,4191620,136882
+394,Central,Commercial,Jan,2023,382302,6881436,8378
+395,Central,Industrial,Jan,2023,1075536,16133040,594
+396,Central,Street Lighting,Jan,2023,72298,1590556,500
+397,Rift Valley,Residential,Jan,2023,172531,3450620,119999
+398,Rift Valley,Commercial,Jan,2023,399771,7195878,8325
+399,Rift Valley,Industrial,Jan,2023,1026989,15404835,1398
+400,Rift Valley,Street Lighting,Jan,2023,68444,1505768,480
+401,Western,Residential,Jan,2023,167821,3356420,102291
+402,Western,Commercial,Jan,2023,345570,6220260,5502
+403,Western,Industrial,Jan,2023,927093,13906395,1457
+404,Western,Street Lighting,Jan,2023,52930,1164460,398
+405,Nyanza,Residential,Jan,2023,162656,3253120,135990
+406,Nyanza,Commercial,Jan,2023,348406,6271308,9590
+407,Nyanza,Industrial,Jan,2023,998196,14972940,1341
+408,Nyanza,Street Lighting,Jan,2023,56191,1236202,321
+409,Eastern,Residential,Jan,2023,162803,3256060,122680
+410,Eastern,Commercial,Jan,2023,327110,5887980,7407
+411,Eastern,Industrial,Jan,2023,892675,13390125,1276
+412,Eastern,Street Lighting,Jan,2023,61071,1343562,596
+413,North Eastern,Residential,Jan,2023,171891,3437820,132384
+414,North Eastern,Commercial,Jan,2023,370447,6668046,14826
+415,North Eastern,Industrial,Jan,2023,979185,14687775,1333
+416,North Eastern,Street Lighting,Jan,2023,52055,1145210,595
+417,Nairobi,Residential,Feb,2023,258549,5170980,147423
+418,Nairobi,Commercial,Feb,2023,544333,9797994,7040
+419,Nairobi,Industrial,Feb,2023,1331398,19970970,1201
+420,Nairobi,Street Lighting,Feb,2023,85558,1882276,272
+421,Coast,Residential,Feb,2023,210815,4216300,121409
+422,Coast,Commercial,Feb,2023,446644,8039592,12915
+423,Coast,Industrial,Feb,2023,1115544,16733160,512
+424,Coast,Street Lighting,Feb,2023,72550,1596100,566
+425,Central,Residential,Feb,2023,220203,4404060,145081
+426,Central,Commercial,Feb,2023,453201,8157618,6752
+427,Central,Industrial,Feb,2023,1117421,16761315,1321
+428,Central,Street Lighting,Feb,2023,74040,1628880,220
+429,Rift Valley,Residential,Feb,2023,171773,3435460,131396
+430,Rift Valley,Commercial,Feb,2023,373368,6720624,6281
+431,Rift Valley,Industrial,Feb,2023,995146,14927190,891
+432,Rift Valley,Street Lighting,Feb,2023,61625,1355750,199
+433,Western,Residential,Feb,2023,160298,3205960,117170
+434,Western,Commercial,Feb,2023,336415,6055470,7635
+435,Western,Industrial,Feb,2023,951181,14267715,1356
+436,Western,Street Lighting,Feb,2023,62478,1374516,306
+437,Nyanza,Residential,Feb,2023,160157,3203140,141759
+438,Nyanza,Commercial,Feb,2023,345591,6220638,13090
+439,Nyanza,Industrial,Feb,2023,998016,14970240,1388
+440,Nyanza,Street Lighting,Feb,2023,62337,1371414,287
+441,Eastern,Residential,Feb,2023,166976,3339520,147287
+442,Eastern,Commercial,Feb,2023,377019,6786342,8614
+443,Eastern,Industrial,Feb,2023,834228,12513420,1079
+444,Eastern,Street Lighting,Feb,2023,57362,1261964,530
+445,North Eastern,Residential,Feb,2023,163342,3266840,119479
+446,North Eastern,Commercial,Feb,2023,322954,5813172,10459
+447,North Eastern,Industrial,Feb,2023,837180,12557700,1288
+448,North Eastern,Street Lighting,Feb,2023,52309,1150798,542
+449,Nairobi,Residential,Mar,2023,280396,5607920,128515
+450,Nairobi,Commercial,Mar,2023,466739,8401302,12882
+451,Nairobi,Industrial,Mar,2023,1467506,22012590,519
+452,Nairobi,Street Lighting,Mar,2023,91394,2010668,318
+453,Coast,Residential,Mar,2023,239416,4788320,126749
+454,Coast,Commercial,Mar,2023,467149,8408682,9475
+455,Coast,Industrial,Mar,2023,1208266,18123990,1412
+456,Coast,Street Lighting,Mar,2023,72609,1597398,421
+457,Central,Residential,Mar,2023,199423,3988460,102965
+458,Central,Commercial,Mar,2023,376317,6773706,9829
+459,Central,Industrial,Mar,2023,1207759,18116385,1422
+460,Central,Street Lighting,Mar,2023,71053,1563166,475
+461,Rift Valley,Residential,Mar,2023,195823,3916460,149984
+462,Rift Valley,Commercial,Mar,2023,377098,6787764,8775
+463,Rift Valley,Industrial,Mar,2023,935047,14025705,1246
+464,Rift Valley,Street Lighting,Mar,2023,59207,1302554,451
+465,Western,Residential,Mar,2023,160661,3213220,135481
+466,Western,Commercial,Mar,2023,340875,6135750,12387
+467,Western,Industrial,Mar,2023,918640,13779600,1156
+468,Western,Street Lighting,Mar,2023,58297,1282534,437
+469,Nyanza,Residential,Mar,2023,184455,3689100,141220
+470,Nyanza,Commercial,Mar,2023,316644,5699592,7432
+471,Nyanza,Industrial,Mar,2023,937865,14067975,1389
+472,Nyanza,Street Lighting,Mar,2023,58515,1287330,395
+473,Eastern,Residential,Mar,2023,163405,3268100,103914
+474,Eastern,Commercial,Mar,2023,336149,6050682,8844
+475,Eastern,Industrial,Mar,2023,948190,14222850,878
+476,Eastern,Street Lighting,Mar,2023,59693,1313246,471
+477,North Eastern,Residential,Mar,2023,165337,3306740,102885
+478,North Eastern,Commercial,Mar,2023,319007,5742126,6601
+479,North Eastern,Industrial,Mar,2023,883591,13253865,963
+480,North Eastern,Street Lighting,Mar,2023,56741,1248302,451
+481,Nairobi,Residential,Apr,2023,207003,4140060,122809
+482,Nairobi,Commercial,Apr,2023,430080,7741440,5146
+483,Nairobi,Industrial,Apr,2023,1117461,16761915,537
+484,Nairobi,Street Lighting,Apr,2023,70130,1542860,369
+485,Coast,Residential,Apr,2023,204067,4081340,141164
+486,Coast,Commercial,Apr,2023,417301,7511418,12266
+487,Coast,Industrial,Apr,2023,1113036,16695540,1232
+488,Coast,Street Lighting,Apr,2023,61836,1360392,575
+489,Central,Residential,Apr,2023,184899,3697980,143778
+490,Central,Commercial,Apr,2023,332584,5986512,7206
+491,Central,Industrial,Apr,2023,1009905,15148575,953
+492,Central,Street Lighting,Apr,2023,55843,1228546,210
+493,Rift Valley,Residential,Apr,2023,168633,3372660,101177
+494,Rift Valley,Commercial,Apr,2023,335783,6044094,6042
+495,Rift Valley,Industrial,Apr,2023,938182,14072730,775
+496,Rift Valley,Street Lighting,Apr,2023,55751,1226522,320
+497,Western,Residential,Apr,2023,153563,3071260,109167
+498,Western,Commercial,Apr,2023,281357,5064426,7478
+499,Western,Industrial,Apr,2023,820960,12314400,1258
+500,Western,Street Lighting,Apr,2023,52564,1156408,336
+501,Nyanza,Residential,Apr,2023,146134,2922680,137403
+502,Nyanza,Commercial,Apr,2023,296110,5329980,13689
+503,Nyanza,Industrial,Apr,2023,732707,10990605,520
+504,Nyanza,Street Lighting,Apr,2023,48988,1077736,504
+505,Eastern,Residential,Apr,2023,136784,2735680,114357
+506,Eastern,Commercial,Apr,2023,273904,4930272,11673
+507,Eastern,Industrial,Apr,2023,773943,11609145,505
+508,Eastern,Street Lighting,Apr,2023,49327,1085194,206
+509,North Eastern,Residential,Apr,2023,146205,2924100,128443
+510,North Eastern,Commercial,Apr,2023,281604,5068872,8898
+511,North Eastern,Industrial,Apr,2023,843193,12647895,605
+512,North Eastern,Street Lighting,Apr,2023,46104,1014288,433
+513,Nairobi,Residential,May,2023,207488,4149760,106274
+514,Nairobi,Commercial,May,2023,455490,8198820,8329
+515,Nairobi,Industrial,May,2023,1126247,16893705,783
+516,Nairobi,Street Lighting,May,2023,71401,1570822,515
+517,Coast,Residential,May,2023,202836,4056720,149067
+518,Coast,Commercial,May,2023,375680,6762240,8103
+519,Coast,Industrial,May,2023,1031519,15472785,1062
+520,Coast,Street Lighting,May,2023,70855,1558810,336
+521,Central,Residential,May,2023,180752,3615040,137613
+522,Central,Commercial,May,2023,354757,6385626,11560
+523,Central,Industrial,May,2023,918111,13771665,980
+524,Central,Street Lighting,May,2023,56328,1239216,449
+525,Rift Valley,Residential,May,2023,170590,3411800,109089
+526,Rift Valley,Commercial,May,2023,359986,6479748,12528
+527,Rift Valley,Industrial,May,2023,900166,13502490,1422
+528,Rift Valley,Street Lighting,May,2023,58324,1283128,540
+529,Western,Residential,May,2023,143678,2873560,139559
+530,Western,Commercial,May,2023,287804,5180472,12051
+531,Western,Industrial,May,2023,867901,13018515,777
+532,Western,Street Lighting,May,2023,48056,1057232,590
+533,Nyanza,Residential,May,2023,154388,3087760,149064
+534,Nyanza,Commercial,May,2023,319978,5759604,11882
+535,Nyanza,Industrial,May,2023,751140,11267100,915
+536,Nyanza,Street Lighting,May,2023,48853,1074766,252
+537,Eastern,Residential,May,2023,157554,3151080,124853
+538,Eastern,Commercial,May,2023,309715,5574870,14012
+539,Eastern,Industrial,May,2023,871033,13065495,1409
+540,Eastern,Street Lighting,May,2023,47215,1038730,418
+541,North Eastern,Residential,May,2023,157595,3151900,149377
+542,North Eastern,Commercial,May,2023,299279,5387022,9542
+543,North Eastern,Industrial,May,2023,745744,11186160,1188
+544,North Eastern,Street Lighting,May,2023,52621,1157662,259
+545,Nairobi,Residential,Jun,2023,247443,4948860,123507
+546,Nairobi,Commercial,Jun,2023,442102,7957836,9600
+547,Nairobi,Industrial,Jun,2023,1082040,16230600,1314
+548,Nairobi,Street Lighting,Jun,2023,75607,1663354,358
+549,Coast,Residential,Jun,2023,199681,3993620,103723
+550,Coast,Commercial,Jun,2023,391510,7047180,8521
+551,Coast,Industrial,Jun,2023,1085659,16284885,1300
+552,Coast,Street Lighting,Jun,2023,61726,1357972,444
+553,Central,Residential,Jun,2023,190159,3803180,141148
+554,Central,Commercial,Jun,2023,377545,6795810,11139
+555,Central,Industrial,Jun,2023,1053418,15801270,758
+556,Central,Street Lighting,Jun,2023,56139,1235058,143
+557,Rift Valley,Residential,Jun,2023,178134,3562680,124867
+558,Rift Valley,Commercial,Jun,2023,297027,5346486,12987
+559,Rift Valley,Industrial,Jun,2023,870736,13061040,1365
+560,Rift Valley,Street Lighting,Jun,2023,58596,1289112,562
+561,Western,Residential,Jun,2023,156064,3121280,125759
+562,Western,Commercial,Jun,2023,329410,5929380,7858
+563,Western,Industrial,Jun,2023,783320,11749800,1007
+564,Western,Street Lighting,Jun,2023,50418,1109196,242
+565,Nyanza,Residential,Jun,2023,162954,3259080,131468
+566,Nyanza,Commercial,Jun,2023,328617,5915106,14641
+567,Nyanza,Industrial,Jun,2023,814443,12216645,1344
+568,Nyanza,Street Lighting,Jun,2023,50635,1113970,559
+569,Eastern,Residential,Jun,2023,146421,2928420,118927
+570,Eastern,Commercial,Jun,2023,272270,4900860,6979
+571,Eastern,Industrial,Jun,2023,766321,11494815,813
+572,Eastern,Street Lighting,Jun,2023,54191,1192202,359
+573,North Eastern,Residential,Jun,2023,136911,2738220,120846
+574,North Eastern,Commercial,Jun,2023,323579,5824422,9577
+575,North Eastern,Industrial,Jun,2023,867812,13017180,1279
+576,North Eastern,Street Lighting,Jun,2023,50445,1109790,589
+577,Nairobi,Residential,Jul,2023,242842,4856840,136778
+578,Nairobi,Commercial,Jul,2023,448497,8072946,5301
+579,Nairobi,Industrial,Jul,2023,1232852,18492780,1407
+580,Nairobi,Street Lighting,Jul,2023,73492,1616824,308
+581,Coast,Residential,Jul,2023,213889,4277780,107044
+582,Coast,Commercial,Jul,2023,353412,6361416,13473
+583,Coast,Industrial,Jul,2023,1129094,16936410,790
+584,Coast,Street Lighting,Jul,2023,66274,1458028,336
+585,Central,Residential,Jul,2023,192319,3846380,109574
+586,Central,Commercial,Jul,2023,384800,6926400,8907
+587,Central,Industrial,Jul,2023,930356,13955340,1412
+588,Central,Street Lighting,Jul,2023,64003,1408066,579
+589,Rift Valley,Residential,Jul,2023,155060,3101200,112981
+590,Rift Valley,Commercial,Jul,2023,340725,6133050,14905
+591,Rift Valley,Industrial,Jul,2023,923222,13848330,666
+592,Rift Valley,Street Lighting,Jul,2023,53805,1183710,285
+593,Western,Residential,Jul,2023,161155,3223100,124908
+594,Western,Commercial,Jul,2023,322367,5802606,5142
+595,Western,Industrial,Jul,2023,859519,12892785,1178
+596,Western,Street Lighting,Jul,2023,51862,1140964,265
+597,Nyanza,Residential,Jul,2023,156970,3139400,102600
+598,Nyanza,Commercial,Jul,2023,290784,5234112,13513
+599,Nyanza,Industrial,Jul,2023,731955,10979325,905
+600,Nyanza,Street Lighting,Jul,2023,52497,1154934,190
+601,Eastern,Residential,Jul,2023,162694,3253880,145189
+602,Eastern,Commercial,Jul,2023,302250,5440500,13074
+603,Eastern,Industrial,Jul,2023,824604,12369060,854
+604,Eastern,Street Lighting,Jul,2023,49424,1087328,531
+605,North Eastern,Residential,Jul,2023,160621,3212420,125032
+606,North Eastern,Commercial,Jul,2023,316096,5689728,13784
+607,North Eastern,Industrial,Jul,2023,730254,10953810,572
+608,North Eastern,Street Lighting,Jul,2023,52328,1151216,292
+609,Nairobi,Residential,Aug,2023,216065,4321300,108710
+610,Nairobi,Commercial,Aug,2023,425088,7651584,6159
+611,Nairobi,Industrial,Aug,2023,1288891,19333365,580
+612,Nairobi,Street Lighting,Aug,2023,70177,1543894,106
+613,Coast,Residential,Aug,2023,201063,4021260,107802
+614,Coast,Commercial,Aug,2023,364583,6562494,9880
+615,Coast,Industrial,Aug,2023,982025,14730375,541
+616,Coast,Street Lighting,Aug,2023,59335,1305370,508
+617,Central,Residential,Aug,2023,167126,3342520,126153
+618,Central,Commercial,Aug,2023,348395,6271110,13721
+619,Central,Industrial,Aug,2023,1028738,15431070,841
+620,Central,Street Lighting,Aug,2023,59855,1316810,454
+621,Rift Valley,Residential,Aug,2023,161737,3234740,127138
+622,Rift Valley,Commercial,Aug,2023,353891,6370038,7649
+623,Rift Valley,Industrial,Aug,2023,806707,12100605,1151
+624,Rift Valley,Street Lighting,Aug,2023,50570,1112540,414
+625,Western,Residential,Aug,2023,150694,3013880,124323
+626,Western,Commercial,Aug,2023,282274,5080932,13334
+627,Western,Industrial,Aug,2023,750755,11261325,891
+628,Western,Street Lighting,Aug,2023,47679,1048938,119
+629,Nyanza,Residential,Aug,2023,153155,3063100,128565
+630,Nyanza,Commercial,Aug,2023,310736,5593248,10076
+631,Nyanza,Industrial,Aug,2023,842160,12632400,535
+632,Nyanza,Street Lighting,Aug,2023,53798,1183556,121
+633,Eastern,Residential,Aug,2023,154811,3096220,146882
+634,Eastern,Commercial,Aug,2023,291888,5253984,8518
+635,Eastern,Industrial,Aug,2023,723141,10847115,669
+636,Eastern,Street Lighting,Aug,2023,46200,1016400,295
+637,North Eastern,Residential,Aug,2023,141574,2831480,135863
+638,North Eastern,Commercial,Aug,2023,304399,5479182,13992
+639,North Eastern,Industrial,Aug,2023,820714,12310710,624
+640,North Eastern,Street Lighting,Aug,2023,52999,1165978,267
+641,Nairobi,Residential,Sep,2023,240353,4807060,110628
+642,Nairobi,Commercial,Sep,2023,441487,7946766,10188
+643,Nairobi,Industrial,Sep,2023,1097409,16461135,1126
+644,Nairobi,Street Lighting,Sep,2023,73322,1613084,237
+645,Coast,Residential,Sep,2023,199502,3990040,145759
+646,Coast,Commercial,Sep,2023,380359,6846462,11853
+647,Coast,Industrial,Sep,2023,1039096,15586440,970
+648,Coast,Street Lighting,Sep,2023,61898,1361756,516
+649,Central,Residential,Sep,2023,177165,3543300,133236
+650,Central,Commercial,Sep,2023,352626,6347268,8406
+651,Central,Industrial,Sep,2023,1042382,15635730,1168
+652,Central,Street Lighting,Sep,2023,57103,1256266,523
+653,Rift Valley,Residential,Sep,2023,175870,3517400,108223
+654,Rift Valley,Commercial,Sep,2023,325197,5853546,12683
+655,Rift Valley,Industrial,Sep,2023,924449,13866735,579
+656,Rift Valley,Street Lighting,Sep,2023,52072,1145584,544
+657,Western,Residential,Sep,2023,159553,3191060,135925
+658,Western,Commercial,Sep,2023,296082,5329476,14017
+659,Western,Industrial,Sep,2023,865572,12983580,562
+660,Western,Street Lighting,Sep,2023,46832,1030304,563
+661,Nyanza,Residential,Sep,2023,159810,3196200,100353
+662,Nyanza,Commercial,Sep,2023,270321,4865778,14911
+663,Nyanza,Industrial,Sep,2023,834010,12510150,1071
+664,Nyanza,Street Lighting,Sep,2023,53577,1178694,205
+665,Eastern,Residential,Sep,2023,135496,2709920,130890
+666,Eastern,Commercial,Sep,2023,290688,5232384,10741
+667,Eastern,Industrial,Sep,2023,735990,11039850,1261
+668,Eastern,Street Lighting,Sep,2023,47353,1041766,118
+669,North Eastern,Residential,Sep,2023,150553,3011060,139344
+670,North Eastern,Commercial,Sep,2023,306717,5520906,12790
+671,North Eastern,Industrial,Sep,2023,876263,13143945,775
+672,North Eastern,Street Lighting,Sep,2023,46811,1029842,408
+673,Nairobi,Residential,Oct,2023,283727,5674540,113227
+674,Nairobi,Commercial,Oct,2023,466501,8397018,10956
+675,Nairobi,Industrial,Oct,2023,1471199,22067985,969
+676,Nairobi,Street Lighting,Oct,2023,86988,1913736,215
+677,Coast,Residential,Oct,2023,224056,4481120,108276
+678,Coast,Commercial,Oct,2023,433623,7805214,11368
+679,Coast,Industrial,Oct,2023,1299080,19486200,1027
+680,Coast,Street Lighting,Oct,2023,67725,1489950,288
+681,Central,Residential,Oct,2023,198544,3970880,111252
+682,Central,Commercial,Oct,2023,444679,8004222,12135
+683,Central,Industrial,Oct,2023,1012925,15193875,645
+684,Central,Street Lighting,Oct,2023,67921,1494262,558
+685,Rift Valley,Residential,Oct,2023,195668,3913360,139065
+686,Rift Valley,Commercial,Oct,2023,403877,7269786,13338
+687,Rift Valley,Industrial,Oct,2023,1071283,16069245,800
+688,Rift Valley,Street Lighting,Oct,2023,58705,1291510,550
+689,Western,Residential,Oct,2023,170433,3408660,137803
+690,Western,Commercial,Oct,2023,360299,6485382,14880
+691,Western,Industrial,Oct,2023,965643,14484645,1005
+692,Western,Street Lighting,Oct,2023,52929,1164438,482
+693,Nyanza,Residential,Oct,2023,180240,3604800,118273
+694,Nyanza,Commercial,Oct,2023,312440,5623920,13399
+695,Nyanza,Industrial,Oct,2023,946733,14200995,600
+696,Nyanza,Street Lighting,Oct,2023,59773,1315006,176
+697,Eastern,Residential,Oct,2023,172422,3448440,145015
+698,Eastern,Commercial,Oct,2023,368270,6628860,11024
+699,Eastern,Industrial,Oct,2023,979974,14699610,761
+700,Eastern,Street Lighting,Oct,2023,61925,1362350,384
+701,North Eastern,Residential,Oct,2023,175042,3500840,149197
+702,North Eastern,Commercial,Oct,2023,363018,6534324,14592
+703,North Eastern,Industrial,Oct,2023,986308,14794620,1440
+704,North Eastern,Street Lighting,Oct,2023,61797,1359534,480
+705,Nairobi,Residential,Nov,2023,260594,5211880,116291
+706,Nairobi,Commercial,Nov,2023,565311,10175598,12441
+707,Nairobi,Industrial,Nov,2023,1431803,21477045,799
+708,Nairobi,Street Lighting,Nov,2023,90879,1999338,475
+709,Coast,Residential,Nov,2023,222524,4450480,101963
+710,Coast,Commercial,Nov,2023,430052,7740936,5246
+711,Coast,Industrial,Nov,2023,1261340,18920100,1407
+712,Coast,Street Lighting,Nov,2023,79688,1753136,418
+713,Central,Residential,Nov,2023,220472,4409440,108153
+714,Central,Commercial,Nov,2023,435433,7837794,9757
+715,Central,Industrial,Nov,2023,1096054,16440810,650
+716,Central,Street Lighting,Nov,2023,64163,1411586,493
+717,Rift Valley,Residential,Nov,2023,202760,4055200,135430
+718,Rift Valley,Commercial,Nov,2023,364370,6558660,7098
+719,Rift Valley,Industrial,Nov,2023,931700,13975500,705
+720,Rift Valley,Street Lighting,Nov,2023,64554,1420188,281
+721,Western,Residential,Nov,2023,169033,3380660,149321
+722,Western,Commercial,Nov,2023,340255,6124590,5382
+723,Western,Industrial,Nov,2023,955989,14339835,1482
+724,Western,Street Lighting,Nov,2023,52390,1152580,402
+725,Nyanza,Residential,Nov,2023,172717,3454340,133756
+726,Nyanza,Commercial,Nov,2023,323105,5815890,6866
+727,Nyanza,Industrial,Nov,2023,996167,14942505,1430
+728,Nyanza,Street Lighting,Nov,2023,52412,1153064,331
+729,Eastern,Residential,Nov,2023,174306,3486120,119926
+730,Eastern,Commercial,Nov,2023,347511,6255198,8716
+731,Eastern,Industrial,Nov,2023,866468,12997020,838
+732,Eastern,Street Lighting,Nov,2023,61088,1343936,269
+733,North Eastern,Residential,Nov,2023,179903,3598060,129483
+734,North Eastern,Commercial,Nov,2023,331198,5961564,7517
+735,North Eastern,Industrial,Nov,2023,879825,13197375,1273
+736,North Eastern,Street Lighting,Nov,2023,57366,1262052,490
+737,Nairobi,Residential,Dec,2023,248472,4969440,112299
+738,Nairobi,Commercial,Dec,2023,481494,8666892,7337
+739,Nairobi,Industrial,Dec,2023,1286921,19303815,509
+740,Nairobi,Street Lighting,Dec,2023,88294,1942468,437
+741,Coast,Residential,Dec,2023,201826,4036520,110345
+742,Coast,Commercial,Dec,2023,452268,8140824,7906
+743,Coast,Industrial,Dec,2023,1146793,17201895,1243
+744,Coast,Street Lighting,Dec,2023,76865,1691030,155
+745,Central,Residential,Dec,2023,217506,4350120,148610
+746,Central,Commercial,Dec,2023,454637,8183466,10587
+747,Central,Industrial,Dec,2023,1092033,16380495,622
+748,Central,Street Lighting,Dec,2023,71056,1563232,228
+749,Rift Valley,Residential,Dec,2023,179807,3596140,134147
+750,Rift Valley,Commercial,Dec,2023,391314,7043652,5948
+751,Rift Valley,Industrial,Dec,2023,1069810,16047150,1346
+752,Rift Valley,Street Lighting,Dec,2023,60720,1335840,246
+753,Western,Residential,Dec,2023,166172,3323440,104095
+754,Western,Commercial,Dec,2023,378964,6821352,5269
+755,Western,Industrial,Dec,2023,1004149,15062235,801
+756,Western,Street Lighting,Dec,2023,52453,1153966,159
+757,Nyanza,Residential,Dec,2023,179276,3585520,119829
+758,Nyanza,Commercial,Dec,2023,369491,6650838,6517
+759,Nyanza,Industrial,Dec,2023,916585,13748775,872
+760,Nyanza,Street Lighting,Dec,2023,60317,1326974,325
+761,Eastern,Residential,Dec,2023,156528,3130560,128534
+762,Eastern,Commercial,Dec,2023,362066,6517188,8797
+763,Eastern,Industrial,Dec,2023,879487,13192305,754
+764,Eastern,Street Lighting,Dec,2023,61351,1349722,244
+765,North Eastern,Residential,Dec,2023,160795,3215900,127006
+766,North Eastern,Commercial,Dec,2023,369745,6655410,11476
+767,North Eastern,Industrial,Dec,2023,965737,14486055,1461
+768,North Eastern,Street Lighting,Dec,2023,57050,1255100,475
+769,Nairobi,Residential,Jan,2024,236807,4736140,115859
+770,Nairobi,Commercial,Jan,2024,511372,9204696,8543
+771,Nairobi,Industrial,Jan,2024,1427086,21406290,795
+772,Nairobi,Street Lighting,Jan,2024,79491,1748802,370
+773,Coast,Residential,Jan,2024,211235,4224700,109814
+774,Coast,Commercial,Jan,2024,439460,7910280,6981
+775,Coast,Industrial,Jan,2024,1179212,17688180,823
+776,Coast,Street Lighting,Jan,2024,68804,1513688,221
+777,Central,Residential,Jan,2024,215545,4310900,111489
+778,Central,Commercial,Jan,2024,388520,6993360,13334
+779,Central,Industrial,Jan,2024,1049197,15737955,937
+780,Central,Street Lighting,Jan,2024,70334,1547348,117
+781,Rift Valley,Residential,Jan,2024,203830,4076600,108045
+782,Rift Valley,Commercial,Jan,2024,389732,7015176,8243
+783,Rift Valley,Industrial,Jan,2024,1058803,15882045,1276
+784,Rift Valley,Street Lighting,Jan,2024,62508,1375176,171
+785,Western,Residential,Jan,2024,160609,3212180,134554
+786,Western,Commercial,Jan,2024,364452,6560136,5847
+787,Western,Industrial,Jan,2024,986992,14804880,935
+788,Western,Street Lighting,Jan,2024,55106,1212332,230
+789,Nyanza,Residential,Jan,2024,157983,3159660,140592
+790,Nyanza,Commercial,Jan,2024,363022,6534396,5554
+791,Nyanza,Industrial,Jan,2024,856227,12843405,821
+792,Nyanza,Street Lighting,Jan,2024,56571,1244562,163
+793,Eastern,Residential,Jan,2024,187369,3747380,131067
+794,Eastern,Commercial,Jan,2024,327950,5903100,12038
+795,Eastern,Industrial,Jan,2024,988649,14829735,570
+796,Eastern,Street Lighting,Jan,2024,58584,1288848,458
+797,North Eastern,Residential,Jan,2024,176746,3534920,109506
+798,North Eastern,Commercial,Jan,2024,333345,6000210,8500
+799,North Eastern,Industrial,Jan,2024,901197,13517955,1242
+800,North Eastern,Street Lighting,Jan,2024,55976,1231472,487
+801,Nairobi,Residential,Feb,2024,239378,4787560,142454
+802,Nairobi,Commercial,Feb,2024,498193,8967474,10854
+803,Nairobi,Industrial,Feb,2024,1289257,19338855,550
+804,Nairobi,Street Lighting,Feb,2024,82275,1810050,241
+805,Coast,Residential,Feb,2024,218223,4364460,149725
+806,Coast,Commercial,Feb,2024,479208,8625744,6849
+807,Coast,Industrial,Feb,2024,1171309,17569635,879
+808,Coast,Street Lighting,Feb,2024,76031,1672682,513
+809,Central,Residential,Feb,2024,186473,3729460,146800
+810,Central,Commercial,Feb,2024,441883,7953894,7106
+811,Central,Industrial,Feb,2024,1085973,16289595,1271
+812,Central,Street Lighting,Feb,2024,72460,1594120,370
+813,Rift Valley,Residential,Feb,2024,183267,3665340,140585
+814,Rift Valley,Commercial,Feb,2024,375498,6758964,12870
+815,Rift Valley,Industrial,Feb,2024,1093035,16395525,869
+816,Rift Valley,Street Lighting,Feb,2024,63851,1404722,329
+817,Western,Residential,Feb,2024,174539,3490780,149592
+818,Western,Commercial,Feb,2024,315408,5677344,10705
+819,Western,Industrial,Feb,2024,947409,14211135,923
+820,Western,Street Lighting,Feb,2024,52966,1165252,519
+821,Nyanza,Residential,Feb,2024,164927,3298540,146409
+822,Nyanza,Commercial,Feb,2024,315602,5680836,11065
+823,Nyanza,Industrial,Feb,2024,903728,13555920,715
+824,Nyanza,Street Lighting,Feb,2024,54719,1203818,199
+825,Eastern,Residential,Feb,2024,170855,3417100,140734
+826,Eastern,Commercial,Feb,2024,365027,6570486,5643
+827,Eastern,Industrial,Feb,2024,953671,14305065,951
+828,Eastern,Street Lighting,Feb,2024,61006,1342132,339
+829,North Eastern,Residential,Feb,2024,163391,3267820,136009
+830,North Eastern,Commercial,Feb,2024,321516,5787288,5595
+831,North Eastern,Industrial,Feb,2024,833688,12505320,1420
+832,North Eastern,Street Lighting,Feb,2024,53052,1167144,195
+833,Nairobi,Residential,Mar,2024,264172,5283440,149631
+834,Nairobi,Commercial,Mar,2024,544735,9805230,11787
+835,Nairobi,Industrial,Mar,2024,1388136,20822040,1291
+836,Nairobi,Street Lighting,Mar,2024,83279,1832138,137
+837,Coast,Residential,Mar,2024,234685,4693700,130353
+838,Coast,Commercial,Mar,2024,446539,8037702,12697
+839,Coast,Industrial,Mar,2024,1100108,16501620,942
+840,Coast,Street Lighting,Mar,2024,76640,1686080,357
+841,Central,Residential,Mar,2024,186604,3732080,134991
+842,Central,Commercial,Mar,2024,400110,7201980,11755
+843,Central,Industrial,Mar,2024,1046479,15697185,1165
+844,Central,Street Lighting,Mar,2024,67791,1491402,139
+845,Rift Valley,Residential,Mar,2024,204305,4086100,145335
+846,Rift Valley,Commercial,Mar,2024,348417,6271506,12938
+847,Rift Valley,Industrial,Mar,2024,1108500,16627500,834
+848,Rift Valley,Street Lighting,Mar,2024,67436,1483592,409
+849,Western,Residential,Mar,2024,169844,3396880,112715
+850,Western,Commercial,Mar,2024,376082,6769476,13316
+851,Western,Industrial,Mar,2024,865241,12978615,1379
+852,Western,Street Lighting,Mar,2024,55669,1224718,111
+853,Nyanza,Residential,Mar,2024,167445,3348900,138811
+854,Nyanza,Commercial,Mar,2024,327601,5896818,7843
+855,Nyanza,Industrial,Mar,2024,837920,12568800,913
+856,Nyanza,Street Lighting,Mar,2024,58320,1283040,207
+857,Eastern,Residential,Mar,2024,168917,3378340,146164
+858,Eastern,Commercial,Mar,2024,319745,5755410,6986
+859,Eastern,Industrial,Mar,2024,900936,13514040,905
+860,Eastern,Street Lighting,Mar,2024,62807,1381754,587
+861,North Eastern,Residential,Mar,2024,175892,3517840,110573
+862,North Eastern,Commercial,Mar,2024,353182,6357276,9175
+863,North Eastern,Industrial,Mar,2024,947027,14205405,1338
+864,North Eastern,Street Lighting,Mar,2024,54045,1188990,464
+865,Nairobi,Residential,Apr,2024,237481,4749620,123118
+866,Nairobi,Commercial,Apr,2024,476196,8571528,12622
+867,Nairobi,Industrial,Apr,2024,1196043,17940645,876
+868,Nairobi,Street Lighting,Apr,2024,67809,1491798,494
+869,Coast,Residential,Apr,2024,199589,3991780,148559
+870,Coast,Commercial,Apr,2024,405627,7301286,7063
+871,Coast,Industrial,Apr,2024,1001138,15017070,1454
+872,Coast,Street Lighting,Apr,2024,64905,1427910,520
+873,Central,Residential,Apr,2024,170802,3416040,135486
+874,Central,Commercial,Apr,2024,356118,6410124,10970
+875,Central,Industrial,Apr,2024,1033732,15505980,884
+876,Central,Street Lighting,Apr,2024,64467,1418274,195
+877,Rift Valley,Residential,Apr,2024,167378,3347560,131601
+878,Rift Valley,Commercial,Apr,2024,358533,6453594,11335
+879,Rift Valley,Industrial,Apr,2024,946237,14193555,600
+880,Rift Valley,Street Lighting,Apr,2024,49772,1094984,395
+881,Western,Residential,Apr,2024,135641,2712820,144176
+882,Western,Commercial,Apr,2024,308209,5547762,5451
+883,Western,Industrial,Apr,2024,872722,13090830,1399
+884,Western,Street Lighting,Apr,2024,54499,1198978,471
+885,Nyanza,Residential,Apr,2024,142340,2846800,132315
+886,Nyanza,Commercial,Apr,2024,292362,5262516,10641
+887,Nyanza,Industrial,Apr,2024,780739,11711085,858
+888,Nyanza,Street Lighting,Apr,2024,50883,1119426,571
+889,Eastern,Residential,Apr,2024,151529,3030580,130716
+890,Eastern,Commercial,Apr,2024,323166,5816988,7617
+891,Eastern,Industrial,Apr,2024,782932,11743980,1299
+892,Eastern,Street Lighting,Apr,2024,50605,1113310,422
+893,North Eastern,Residential,Apr,2024,153365,3067300,121092
+894,North Eastern,Commercial,Apr,2024,290916,5236488,14424
+895,North Eastern,Industrial,Apr,2024,728219,10923285,1493
+896,North Eastern,Street Lighting,Apr,2024,46904,1031888,510
+897,Nairobi,Residential,May,2024,245397,4907940,128846
+898,Nairobi,Commercial,May,2024,462635,8327430,12916
+899,Nairobi,Industrial,May,2024,1258013,18870195,1193
+900,Nairobi,Street Lighting,May,2024,80869,1779118,505
+901,Coast,Residential,May,2024,183685,3673700,139497
+902,Coast,Commercial,May,2024,376906,6784308,13316
+903,Coast,Industrial,May,2024,1071320,16069800,1221
+904,Coast,Street Lighting,May,2024,62918,1384196,319
+905,Central,Residential,May,2024,163943,3278860,136760
+906,Central,Commercial,May,2024,332888,5991984,6693
+907,Central,Industrial,May,2024,925284,13879260,1185
+908,Central,Street Lighting,May,2024,65860,1448920,138
+909,Rift Valley,Residential,May,2024,158142,3162840,107832
+910,Rift Valley,Commercial,May,2024,321244,5782392,12491
+911,Rift Valley,Industrial,May,2024,847150,12707250,722
+912,Rift Valley,Street Lighting,May,2024,56627,1245794,323
+913,Western,Residential,May,2024,139721,2794420,118188
+914,Western,Commercial,May,2024,307099,5527782,10574
+915,Western,Industrial,May,2024,784944,11774160,567
+916,Western,Street Lighting,May,2024,52384,1152448,425
+917,Nyanza,Residential,May,2024,141573,2831460,133325
+918,Nyanza,Commercial,May,2024,296596,5338728,10505
+919,Nyanza,Industrial,May,2024,830916,12463740,1465
+920,Nyanza,Street Lighting,May,2024,49272,1083984,378
+921,Eastern,Residential,May,2024,155794,3115880,117408
+922,Eastern,Commercial,May,2024,306101,5509818,12217
+923,Eastern,Industrial,May,2024,757205,11358075,1144
+924,Eastern,Street Lighting,May,2024,50152,1103344,277
+925,North Eastern,Residential,May,2024,156526,3130520,100084
+926,North Eastern,Commercial,May,2024,297008,5346144,8717
+927,North Eastern,Industrial,May,2024,845178,12677670,571
+928,North Eastern,Street Lighting,May,2024,53790,1183380,321
+929,Nairobi,Residential,Jun,2024,221506,4430120,131607
+930,Nairobi,Commercial,Jun,2024,460125,8282250,8998
+931,Nairobi,Industrial,Jun,2024,1203658,18054870,1195
+932,Nairobi,Street Lighting,Jun,2024,71937,1582614,354
+933,Coast,Residential,Jun,2024,175534,3510680,103276
+934,Coast,Commercial,Jun,2024,367490,6614820,8838
+935,Coast,Industrial,Jun,2024,996248,14943720,761
+936,Coast,Street Lighting,Jun,2024,60895,1339690,237
+937,Central,Residential,Jun,2024,163819,3276380,117565
+938,Central,Commercial,Jun,2024,362193,6519474,14905
+939,Central,Industrial,Jun,2024,1044958,15674370,791
+940,Central,Street Lighting,Jun,2024,57624,1267728,445
+941,Rift Valley,Residential,Jun,2024,174665,3493300,145095
+942,Rift Valley,Commercial,Jun,2024,338428,6091704,14199
+943,Rift Valley,Industrial,Jun,2024,945681,14185215,1406
+944,Rift Valley,Street Lighting,Jun,2024,54288,1194336,525
+945,Western,Residential,Jun,2024,159095,3181900,128271
+946,Western,Commercial,Jun,2024,289616,5213088,5862
+947,Western,Industrial,Jun,2024,861129,12916935,1347
+948,Western,Street Lighting,Jun,2024,54847,1206634,445
+949,Nyanza,Residential,Jun,2024,161426,3228520,120728
+950,Nyanza,Commercial,Jun,2024,300426,5407668,12908
+951,Nyanza,Industrial,Jun,2024,742515,11137725,509
+952,Nyanza,Street Lighting,Jun,2024,47831,1052282,285
+953,Eastern,Residential,Jun,2024,143022,2860440,136771
+954,Eastern,Commercial,Jun,2024,283676,5106168,11419
+955,Eastern,Industrial,Jun,2024,816002,12240030,727
+956,Eastern,Street Lighting,Jun,2024,51154,1125388,204
+957,North Eastern,Residential,Jun,2024,156966,3139320,119075
+958,North Eastern,Commercial,Jun,2024,294778,5306004,5046
+959,North Eastern,Industrial,Jun,2024,809758,12146370,762
+960,North Eastern,Street Lighting,Jun,2024,46666,1026652,548
+961,Nairobi,Residential,Jul,2024,207778,4155560,136752
+962,Nairobi,Commercial,Jul,2024,486369,8754642,5713
+963,Nairobi,Industrial,Jul,2024,1157729,17365935,1193
+964,Nairobi,Street Lighting,Jul,2024,72399,1592778,102
+965,Coast,Residential,Jul,2024,195808,3916160,109333
+966,Coast,Commercial,Jul,2024,380792,6854256,5344
+967,Coast,Industrial,Jul,2024,1035142,15527130,1031
+968,Coast,Street Lighting,Jul,2024,60243,1325346,510
+969,Central,Residential,Jul,2024,183410,3668200,149991
+970,Central,Commercial,Jul,2024,361450,6506100,11041
+971,Central,Industrial,Jul,2024,1004313,15064695,1008
+972,Central,Street Lighting,Jul,2024,65227,1434994,144
+973,Rift Valley,Residential,Jul,2024,170631,3412620,125141
+974,Rift Valley,Commercial,Jul,2024,309688,5574384,5023
+975,Rift Valley,Industrial,Jul,2024,886793,13301895,1394
+976,Rift Valley,Street Lighting,Jul,2024,55816,1227952,488
+977,Western,Residential,Jul,2024,148248,2964960,102404
+978,Western,Commercial,Jul,2024,321339,5784102,14120
+979,Western,Industrial,Jul,2024,779985,11699775,1213
+980,Western,Street Lighting,Jul,2024,54978,1209516,184
+981,Nyanza,Residential,Jul,2024,140779,2815580,109937
+982,Nyanza,Commercial,Jul,2024,292118,5258124,9519
+983,Nyanza,Industrial,Jul,2024,800802,12012030,951
+984,Nyanza,Street Lighting,Jul,2024,54547,1200034,268
+985,Eastern,Residential,Jul,2024,148934,2978680,122895
+986,Eastern,Commercial,Jul,2024,318169,5727042,10277
+987,Eastern,Industrial,Jul,2024,720702,10810530,510
+988,Eastern,Street Lighting,Jul,2024,48481,1066582,527
+989,North Eastern,Residential,Jul,2024,160744,3214880,149406
+990,North Eastern,Commercial,Jul,2024,287107,5167926,14678
+991,North Eastern,Industrial,Jul,2024,802896,12043440,609
+992,North Eastern,Street Lighting,Jul,2024,51899,1141778,375
+993,Nairobi,Residential,Aug,2024,221408,4428160,148538
+994,Nairobi,Commercial,Aug,2024,425890,7666020,7937
+995,Nairobi,Industrial,Aug,2024,1149865,17247975,1432
+996,Nairobi,Street Lighting,Aug,2024,71395,1570690,277
+997,Coast,Residential,Aug,2024,210696,4213920,142765
+998,Coast,Commercial,Aug,2024,378939,6820902,12109
+999,Coast,Industrial,Aug,2024,1023387,15350805,1295
+1000,Coast,Street Lighting,Aug,2024,58732,1292104,193
+1001,Central,Residential,Aug,2024,186872,3737440,108964
+1002,Central,Commercial,Aug,2024,365420,6577560,7894
+1003,Central,Industrial,Aug,2024,1023204,15348060,1488
+1004,Central,Street Lighting,Aug,2024,54441,1197702,479
+1005,Rift Valley,Residential,Aug,2024,149830,2996600,115307
+1006,Rift Valley,Commercial,Aug,2024,346703,6240654,9921
+1007,Rift Valley,Industrial,Aug,2024,805971,12089565,1032
+1008,Rift Valley,Street Lighting,Aug,2024,54909,1207998,187
+1009,Western,Residential,Aug,2024,146818,2936360,131461
+1010,Western,Commercial,Aug,2024,304374,5478732,13032
+1011,Western,Industrial,Aug,2024,818768,12281520,1049
+1012,Western,Street Lighting,Aug,2024,53369,1174118,301
+1013,Nyanza,Residential,Aug,2024,148146,2962920,111852
+1014,Nyanza,Commercial,Aug,2024,272062,4897116,11887
+1015,Nyanza,Industrial,Aug,2024,815992,12239880,1171
+1016,Nyanza,Street Lighting,Aug,2024,46723,1027906,192
+1017,Eastern,Residential,Aug,2024,153789,3075780,141601
+1018,Eastern,Commercial,Aug,2024,297429,5353722,7852
+1019,Eastern,Industrial,Aug,2024,765818,11487270,851
+1020,Eastern,Street Lighting,Aug,2024,45220,994840,549
+1021,North Eastern,Residential,Aug,2024,149172,2983440,100639
+1022,North Eastern,Commercial,Aug,2024,289409,5209362,14961
+1023,North Eastern,Industrial,Aug,2024,786445,11796675,711
+1024,North Eastern,Street Lighting,Aug,2024,51991,1143802,449
+1025,Nairobi,Residential,Sep,2024,241845,4836900,108719
+1026,Nairobi,Commercial,Sep,2024,494128,8894304,8510
+1027,Nairobi,Industrial,Sep,2024,1252577,18788655,962
+1028,Nairobi,Street Lighting,Sep,2024,72441,1593702,253
+1029,Coast,Residential,Sep,2024,208647,4172940,131192
+1030,Coast,Commercial,Sep,2024,426547,7677846,8267
+1031,Coast,Industrial,Sep,2024,1104398,16565970,1325
+1032,Coast,Street Lighting,Sep,2024,63561,1398342,540
+1033,Central,Residential,Sep,2024,169592,3391840,128560
+1034,Central,Commercial,Sep,2024,394182,7095276,9669
+1035,Central,Industrial,Sep,2024,942764,14141460,656
+1036,Central,Street Lighting,Sep,2024,54316,1194952,443
+1037,Rift Valley,Residential,Sep,2024,153662,3073240,130906
+1038,Rift Valley,Commercial,Sep,2024,358073,6445314,5646
+1039,Rift Valley,Industrial,Sep,2024,844705,12670575,1228
+1040,Rift Valley,Street Lighting,Sep,2024,59125,1300750,367
+1041,Western,Residential,Sep,2024,141030,2820600,106217
+1042,Western,Commercial,Sep,2024,307815,5540670,7287
+1043,Western,Industrial,Sep,2024,727238,10908570,705
+1044,Western,Street Lighting,Sep,2024,53817,1183974,461
+1045,Nyanza,Residential,Sep,2024,160406,3208120,141444
+1046,Nyanza,Commercial,Sep,2024,315764,5683752,13775
+1047,Nyanza,Industrial,Sep,2024,878991,13184865,1339
+1048,Nyanza,Street Lighting,Sep,2024,47491,1044802,580
+1049,Eastern,Residential,Sep,2024,151707,3034140,131310
+1050,Eastern,Commercial,Sep,2024,302290,5441220,12297
+1051,Eastern,Industrial,Sep,2024,723586,10853790,1306
+1052,Eastern,Street Lighting,Sep,2024,52707,1159554,538
+1053,North Eastern,Residential,Sep,2024,162688,3253760,143627
+1054,North Eastern,Commercial,Sep,2024,284526,5121468,9703
+1055,North Eastern,Industrial,Sep,2024,771688,11575320,570
+1056,North Eastern,Street Lighting,Sep,2024,49659,1092498,217
+1057,Nairobi,Residential,Oct,2024,257943,5158860,129031
+1058,Nairobi,Commercial,Oct,2024,535694,9642492,7592
+1059,Nairobi,Industrial,Oct,2024,1442344,21635160,921
+1060,Nairobi,Street Lighting,Oct,2024,94120,2070640,562
+1061,Coast,Residential,Oct,2024,202752,4055040,111941
+1062,Coast,Commercial,Oct,2024,436344,7854192,14119
+1063,Coast,Industrial,Oct,2024,1201211,18018165,1146
+1064,Coast,Street Lighting,Oct,2024,72229,1589038,513
+1065,Central,Residential,Oct,2024,225066,4501320,129831
+1066,Central,Commercial,Oct,2024,399368,7188624,5854
+1067,Central,Industrial,Oct,2024,1074464,16116960,1012
+1068,Central,Street Lighting,Oct,2024,74791,1645402,380
+1069,Rift Valley,Residential,Oct,2024,189880,3797600,125481
+1070,Rift Valley,Commercial,Oct,2024,383417,6901506,6103
+1071,Rift Valley,Industrial,Oct,2024,1001782,15026730,1492
+1072,Rift Valley,Street Lighting,Oct,2024,64352,1415744,307
+1073,Western,Residential,Oct,2024,177732,3554640,123448
+1074,Western,Commercial,Oct,2024,347317,6251706,6776
+1075,Western,Industrial,Oct,2024,1011521,15172815,867
+1076,Western,Street Lighting,Oct,2024,62289,1370358,320
+1077,Nyanza,Residential,Oct,2024,175645,3512900,134234
+1078,Nyanza,Commercial,Oct,2024,360358,6486444,14120
+1079,Nyanza,Industrial,Oct,2024,969606,14544090,930
+1080,Nyanza,Street Lighting,Oct,2024,52159,1147498,233
+1081,Eastern,Residential,Oct,2024,184015,3680300,138265
+1082,Eastern,Commercial,Oct,2024,373408,6721344,5207
+1083,Eastern,Industrial,Oct,2024,976163,14642445,863
+1084,Eastern,Street Lighting,Oct,2024,51844,1140568,296
+1085,North Eastern,Residential,Oct,2024,155457,3109140,106955
+1086,North Eastern,Commercial,Oct,2024,365254,6574572,5753
+1087,North Eastern,Industrial,Oct,2024,878540,13178100,625
+1088,North Eastern,Street Lighting,Oct,2024,62752,1380544,511
+1089,Nairobi,Residential,Nov,2024,244742,4894840,132656
+1090,Nairobi,Commercial,Nov,2024,476940,8584920,13405
+1091,Nairobi,Industrial,Nov,2024,1268912,19033680,1303
+1092,Nairobi,Street Lighting,Nov,2024,89254,1963588,335
+1093,Coast,Residential,Nov,2024,218169,4363380,114379
+1094,Coast,Commercial,Nov,2024,413404,7441272,5456
+1095,Coast,Industrial,Nov,2024,1114534,16718010,1086
+1096,Coast,Street Lighting,Nov,2024,79617,1751574,303
+1097,Central,Residential,Nov,2024,220940,4418800,113526
+1098,Central,Commercial,Nov,2024,433657,7805826,10265
+1099,Central,Industrial,Nov,2024,1112294,16684410,1162
+1100,Central,Street Lighting,Nov,2024,71420,1571240,586
+1101,Rift Valley,Residential,Nov,2024,185293,3705860,104359
+1102,Rift Valley,Commercial,Nov,2024,381308,6863544,13449
+1103,Rift Valley,Industrial,Nov,2024,960980,14414700,978
+1104,Rift Valley,Street Lighting,Nov,2024,66839,1470458,526
+1105,Western,Residential,Nov,2024,167805,3356100,146063
+1106,Western,Commercial,Nov,2024,331353,5964354,14872
+1107,Western,Industrial,Nov,2024,974446,14616690,1371
+1108,Western,Street Lighting,Nov,2024,56969,1253318,462
+1109,Nyanza,Residential,Nov,2024,187672,3753440,146648
+1110,Nyanza,Commercial,Nov,2024,328903,5920254,8070
+1111,Nyanza,Industrial,Nov,2024,932885,13993275,635
+1112,Nyanza,Street Lighting,Nov,2024,57206,1258532,148
+1113,Eastern,Residential,Nov,2024,186752,3735040,102622
+1114,Eastern,Commercial,Nov,2024,374256,6736608,7241
+1115,Eastern,Industrial,Nov,2024,976000,14640000,958
+1116,Eastern,Street Lighting,Nov,2024,54995,1209890,428
+1117,North Eastern,Residential,Nov,2024,187871,3757420,146956
+1118,North Eastern,Commercial,Nov,2024,348046,6264828,14111
+1119,North Eastern,Industrial,Nov,2024,846703,12700545,939
+1120,North Eastern,Street Lighting,Nov,2024,59394,1306668,460
+1121,Nairobi,Residential,Dec,2024,281244,5624880,105697
+1122,Nairobi,Commercial,Dec,2024,531447,9566046,10678
+1123,Nairobi,Industrial,Dec,2024,1257771,18866565,950
+1124,Nairobi,Street Lighting,Dec,2024,80259,1765698,281
+1125,Coast,Residential,Dec,2024,209345,4186900,129903
+1126,Coast,Commercial,Dec,2024,423699,7626582,11795
+1127,Coast,Industrial,Dec,2024,1107528,16612920,1128
+1128,Coast,Street Lighting,Dec,2024,68899,1515778,214
+1129,Central,Residential,Dec,2024,210675,4213500,117236
+1130,Central,Commercial,Dec,2024,433404,7801272,5195
+1131,Central,Industrial,Dec,2024,1195438,17931570,1287
+1132,Central,Street Lighting,Dec,2024,74168,1631696,575
+1133,Rift Valley,Residential,Dec,2024,190140,3802800,137922
+1134,Rift Valley,Commercial,Dec,2024,361055,6498990,7276
+1135,Rift Valley,Industrial,Dec,2024,1007244,15108660,909
+1136,Rift Valley,Street Lighting,Dec,2024,63755,1402610,212
+1137,Western,Residential,Dec,2024,177132,3542640,148996
+1138,Western,Commercial,Dec,2024,346127,6230286,6474
+1139,Western,Industrial,Dec,2024,980814,14712210,1185
+1140,Western,Street Lighting,Dec,2024,57916,1274152,191
+1141,Nyanza,Residential,Dec,2024,164341,3286820,122019
+1142,Nyanza,Commercial,Dec,2024,317392,5713056,10593
+1143,Nyanza,Industrial,Dec,2024,839279,12589185,1241
+1144,Nyanza,Street Lighting,Dec,2024,59958,1319076,360
+1145,Eastern,Residential,Dec,2024,156048,3120960,135751
+1146,Eastern,Commercial,Dec,2024,319733,5755194,6672
+1147,Eastern,Industrial,Dec,2024,1001325,15019875,1392
+1148,Eastern,Street Lighting,Dec,2024,56588,1244936,189
+1149,North Eastern,Residential,Dec,2024,172678,3453560,103476
+1150,North Eastern,Commercial,Dec,2024,348327,6269886,11334
+1151,North Eastern,Industrial,Dec,2024,990127,14851905,652
+1152,North Eastern,Street Lighting,Dec,2024,53820,1184040,422
